@@ -1,7 +1,11 @@
 # Desenvolvimento de uma aplicação de eCommerce
 
 Neste projecto irei explorar todos os meus conhecimentos como FullStack Developer e Licenciado em Gestão da Distribuição e da Lógistica,
-o principal objectivo é a demonstração dos meus conhecimento num projecto simples mas conciso e trabalhado.
+o principal objectivo deste projecto é a demonstração dos meus conhecimento num projecto simples mas conciso e bem trabalhado.
+
+Foquei-me principalmente em criar uma base forte na qual posso construir a aplicação tornando mais simples o seu desenvolvimento e manuntenção.
+
+Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou focar-me muito nas metodologias de gestão, mas estou a utilizar um modelo de *Waterfall*
 
 # Tecnologias Utilizadas
 
