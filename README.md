@@ -1,7 +1,7 @@
 # Desenvolvimento de uma aplicação de eCommerce
 
-Neste projecto irei explorar todos os meus conhecimentos como FullStack Developer e Licenciado em Gestão da Distribuição e da Lógistica
-O principal objectivo é a demonstração dos meus conhecimento num projecto simples mas conciso e trabalhado
+Neste projecto irei explorar todos os meus conhecimentos como FullStack Developer e Licenciado em Gestão da Distribuição e da Lógistica,
+o principal objectivo é a demonstração dos meus conhecimento num projecto simples mas conciso e trabalhado.
 
 # Tecnologias Utilizadas
 
