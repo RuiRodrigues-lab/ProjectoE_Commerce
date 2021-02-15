@@ -1,11 +1,11 @@
-# Desenvolvimento de uma aplicação de eCommerce
+# Desenvolvimento de uma aplicação de e-commerce
 
-Neste projecto irei explorar todos os meus conhecimentos como FullStack Developer e Licenciado em Gestão da Distribuição e da Lógistica,
-o principal objectivo deste projecto é a demonstração dos meus conhecimento num projecto simples mas conciso e bem trabalhado.
+Neste projecto irei explorar todos os meus conhecimentos como FullStack Developer e Licenciado em Gestão da Distribuição e da Logística,
+o principal objectivo deste projecto é a demonstração dos meus conhecimentos num projecto simples, mas conciso e bem trabalhado.
 
-Foquei-me principalmente em criar uma base forte na qual posso construir a aplicação tornando mais simples o seu desenvolvimento e manuntenção.
+Foquei-me principalmente em criar uma base forte na qual posso construir a aplicação tornando mais simples o seu desenvolvimento e manutenção.
 
-Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou focar-me muito nas metodologias de gestão, mas estou a utilizar um modelo de *Waterfall*
+Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou focar-me muito nas metodologias de gestão, mas estou a utilizar um modelo de *Waterfall*.
 
 # Tecnologias Utilizadas
 
@@ -20,4 +20,4 @@ Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou foc
 9. No-SQL
 10. Serviços Azure
 
-Mais tecnologias serão adicionadas ao longo que vou desenvolvendo este projecto
+Mais tecnologias serão adicionadas ao longo que vou desenvolvendo este projecto.
