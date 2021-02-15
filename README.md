@@ -9,7 +9,7 @@ Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou foc
 
 # Tecnologias Utilizadas
 
-1. .net/c# (Entity Framework, ASP.net MVC, Web API)
+1. .net/c# (Entity Framework, ASP.net MVC, Web API, Razor Pages)
 2. HTML5/CSS3/JS
 3. Bootstrap 4
 4. Jquerry 3.5
