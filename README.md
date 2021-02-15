@@ -9,7 +9,7 @@ Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou foc
 
 # Tecnologias Utilizadas
 
-1. .net/c# (Entity Framework, ASP.net MVC, Web API)
+1. .net/c# (Entity Framework, ASP.net MVC, Web API, Razor Pages)
 2. HTML5/CSS3/JS
 3. Bootstrap 4
 4. Jquerry 3.5
@@ -19,5 +19,6 @@ Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou foc
 8. Azure DevOps
 9. No-SQL
 10. Serviços Azure
+11. Serviços Google (gmail, Google business)
 
 Mais tecnologias serão adicionadas ao longo que vou desenvolvendo este projecto.
