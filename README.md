@@ -19,5 +19,6 @@ Uma vez sendo um projecto pessoal para ser feito ao longo do tempo, não vou foc
 8. Azure DevOps
 9. No-SQL
 10. Serviços Azure
+11. Serviços Google (gmail, Google business)
 
 Mais tecnologias serão adicionadas ao longo que vou desenvolvendo este projecto.
